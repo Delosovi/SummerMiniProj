@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator App</string>
+    <string name="tip">Tip</string>
+    <string name="percent">percent</string>
+    <string name="total">Total</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="_0">0%</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="participants">Participants</string>
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+</resources>
